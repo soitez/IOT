@@ -5,7 +5,7 @@
 
 FOR WINDOWS ONLY
 ---
-1. Install node red using the link below:
+1. Install node red using the link below:*(if the installer is not provided)
 
 -https://nodered.org/docs/platforms/windows
 
