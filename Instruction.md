@@ -23,4 +23,4 @@ v10.16.3
 ```
 3. Then after that, proceed to type in `npm install -g --unsafe-perm node-red` on the Node.js cmd to install node red.
 
-4. Once done installing node red proceed on typing node-red to run and change node.js to node-red.
+4. Once done installing node red proceed on typing `node-red` to run and change node.js to node-red.
