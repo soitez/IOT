@@ -1,4 +1,4 @@
-# Flow Google Form
+# Google Script For Email Notification
 ---
 ```
 function email_high() {
