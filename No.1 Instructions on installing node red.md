@@ -23,6 +23,8 @@ v10.16.3
 
 4. Once done installing node red proceed on typing `node-red` to run and change node.js to node-red.
 
-5. here's a link to a short video if you are still struggling on running the node-red
+5. And then proceed on going to the browser and type in `localhost:1880`.
+
+6. here's a link to a short video if you are still struggling on running the node-red
 
 - https://drive.google.com/file/d/1Ot29kWpnsiaWTV4DhDiAiqCVFg5_0R7Q/view?usp=sharing
